@@ -1,6 +1,6 @@
 
-# Exoplanets App
-
+# Antarikṣa Jñānavṛkṣa
+Antarikṣa Jñānavṛkṣa (अन्तरिक्ष ज्ञानवृक्ष) is an innovative web application dedicated to exploring and visualizing the fascinating realm of extrasolar planets, commonly known as exoplanets. The name, which translates to "The Tree of Space Knowledge," captures the essence of our mission to cultivate and disseminate knowledge about celestial bodies that orbit stars beyond our solar system.
 A web application that visualizes data on extrasolar planets. The data is based on PHL's [Habitable Exoplanets Catalog](http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database), which provides a comprehensive collection of exoplanet data, combined with additional modeled planet-related information.
 
 
