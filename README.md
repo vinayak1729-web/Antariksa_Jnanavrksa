@@ -19,7 +19,7 @@ A web application that visualizes data on extrasolar planets. The data is based 
 3. Navigate to the newly created folder.
 4. Clone the repository into this folder by running:
     ```bash
-    git clone [https://github.com/vinayak1729-web/](https://github.com/vinayak1729-web/Antariksa_Jnanavrksa)
+    git clone (https://github.com/vinayak1729-web/Antariksa_Jnanavrksa)
     ```
 5. Once cloned, open `localhost/exoplanets` in your browser to access the app frontend. Please note that the search functionality will not work until you set up the backend.
 
