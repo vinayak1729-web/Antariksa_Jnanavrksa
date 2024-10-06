@@ -1,16 +1,9 @@
-Here’s an updated README file for your project with the necessary steps to run it, removing the original author's name and adjusting the content accordingly:
-
----
 
 # Exoplanets App
 
 A web application that visualizes data on extrasolar planets. The data is based on PHL's [Habitable Exoplanets Catalog](http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database), which provides a comprehensive collection of exoplanet data, combined with additional modeled planet-related information.
 
-### Getting Started
 
-To explore the app, visit the following links:
-- [Exoplanets App](http://exoplanets.tommykrueger.com/app) to see the app in action.
-- [Exoplanets Overview](http://exoplanets.tommykrueger.com) to read about the app and its purpose.
 
 ### Features
 - **Visualizes data for extrasolar planets (exoplanets)**
@@ -26,7 +19,7 @@ To explore the app, visit the following links:
 3. Navigate to the newly created folder.
 4. Clone the repository into this folder by running:
     ```bash
-    git clone https://github.com/yourusername/exoplanets
+    git clone https://github.com/vinayak1729-web/travel_to_exoplanets
     ```
 5. Once cloned, open `localhost/exoplanets` in your browser to access the app frontend. Please note that the search functionality will not work until you set up the backend.
 
